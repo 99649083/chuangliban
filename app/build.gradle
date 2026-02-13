@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        chuangliban "com.outsider.sounder.创立斑"
+        chuangliban "com.outsider.sounder.chuangliban"
         minSdk 23
         targetSdk 36
         versionCode 1
